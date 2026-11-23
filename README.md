@@ -1,42 +1,41 @@
 <h1 align="center">Taggert W. Olson</h1>
-<p align="center"><b>Political science and data analysis</b> · Cal Poly San Luis Obispo<br>
-<a href="https://tagwesley.github.io">Portfolio</a> · <a href="mailto:tolson01@calpoly.edu">Email</a> · <a href="https://www.linkedin.com/in/taggert-olson-287545332">LinkedIn</a> · <a href="https://tagwesley.github.io/#network">Interactive network</a></p>
+<p align="center"><strong>Political science · quantitative research · data tools</strong><br>
+Cal Poly San Luis Obispo · Global Politics</p>
 
-Political science student at **Cal Poly San Luis Obispo** (Global Politics). I turn messy public data into clean datasets, models and tools, and explain the results to people who don't live in notebooks.
-
-**Portfolio:** [tagwesley.github.io](https://tagwesley.github.io) · **Email:** tolson01@calpoly.edu · **LinkedIn:** [taggert-olson](https://www.linkedin.com/in/taggert-olson-287545332)
-
-### What I'm working on
-
-- Spatial and social network analysis of political participation (R, igraph)
-- Reproducible research: scripts, data and papers that rebuild every reported number
-- Building tools for Fare Co-op, a driver-owned rideshare cooperative in San Luis Obispo
-
-### Featured work
-
-| Project | What it shows | Stack |
-| --- | --- | --- |
-| [January 6 spatial network](https://github.com/tagwesley/jan6-spatial-network) | Scraped 1,575 records, built a 16,529-tie proximity network, reproduces every published metric. [Interactive version](https://tagwesley.github.io/#network) | R, igraph |
-| [Crime, density and the vote in Oregon](https://github.com/tagwesley/oregon-crime-vote) | Merged FBI, Census, election and income data; nested OLS with interactions and robust SEs | R, dplyr, ggplot2, sandwich |
-| [Fare Co-op Driver Hub](https://github.com/tagwesley/fare-coop-driver-hub) | Driver portal on a Google Sheets ops hub: email-code sign-in, row-level access, approval-gated email queue, calendar sync | Google Apps Script, JavaScript |
-
-### Full papers
-
-- [January 6, 2021: A Social Network Perspective](https://github.com/tagwesley/jan6-spatial-network/blob/main/paper/paper.md) (maps, centrality tables)
-- [Crime, Population Density, and Trump Support in Oregon Counties](https://github.com/tagwesley/oregon-crime-vote/blob/main/paper/paper.md) (14 figures, 3 nested models)
-
-### Toolbox
-
-`R` · `igraph` · `dplyr` · `ggplot2` · `Python` · `Google Apps Script` · `ParseHub` · `HubSpot` · `Google Sheets`
-
-<p>
-<img alt="R" src="https://img.shields.io/badge/R-276DC3?logo=r&logoColor=white">
-<img alt="Python" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white">
-<img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black">
-<img alt="Google Apps Script" src="https://img.shields.io/badge/Apps%20Script-4285F4?logo=google&logoColor=white">
+<p align="center">
+  <a href="https://tagwesley.github.io">Portfolio and resume</a> ·
+  <a href="mailto:tolson01@calpoly.edu">Email</a> ·
+  <a href="https://www.linkedin.com/in/taggert-olson-287545332">LinkedIn</a>
 </p>
 
-### Also
+I turn messy public data into documented datasets, reproducible analyses, and practical tools—and explain the results clearly. My work spans political behavior, spatial and social network analysis, and operations automation.
 
-- Co-founder, Fare Co-op San Luis Obispo (driver-owned rideshare cooperative)
-- Former Mandarin teacher; basketball coach (varsity/JV girls, 8th-grade boys)
+## Start here
+
+- **[Portfolio and resume](https://tagwesley.github.io)** — project highlights, papers, experience, education, and contact details.
+- **[Download / read the text resume](https://tagwesley.github.io/resume.md)** — accessible, print-friendly Markdown version.
+- **[All repositories](https://github.com/tagwesley?tab=repositories)** — research, software, and portfolio source.
+
+## Featured work
+
+| Project | Focus | Tools |
+| --- | --- | --- |
+| [January 6 spatial network](https://github.com/tagwesley/jan6-spatial-network) | Reproducible spatial-proximity network analysis of 1,575 defendants; methods, limitations, and paper are documented in the repository. | R, igraph |
+| [Crime, density, and the vote in Oregon](https://github.com/tagwesley/oregon-crime-vote) | County-level political data analysis and a documented R pipeline; the README explains data gaps and what can and cannot currently be reproduced. | R, dplyr, ggplot2 |
+| [Fare Co-op Driver Hub](https://github.com/tagwesley/fare-coop-driver-hub) | Driver portal and workflow automation for a cooperative operations hub, with setup and security notes. | JavaScript, Google Apps Script, Google Sheets |
+| [Portfolio website](https://github.com/tagwesley/tagwesley.github.io) | Accessible-first portfolio, resume, research papers, and interactive project material. | HTML, CSS, JavaScript |
+
+## Research and interests
+
+- Political behavior and computational social science
+- Reproducible research, data provenance, and transparent limitations
+- Spatial and social network analysis
+- Practical data systems and workflow automation
+
+## Tools
+
+R · igraph · dplyr · ggplot2 · Python · JavaScript · Google Apps Script · Google Sheets · data visualization · regression analysis
+
+## Experience beyond code
+
+Co-founder of Fare Co-op San Luis Obispo; former Mandarin teacher; basketball coach. More detail is on the [portfolio and resume](https://tagwesley.github.io).
