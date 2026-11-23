@@ -10,6 +10,7 @@ Political science student at **Cal Poly San Luis Obispo** (Global Politics). I t
 | --- | --- | --- |
 | [January 6 spatial network](https://github.com/tagwesley/jan6-spatial-network) | Scraped 1,575 records, built a 16,529-tie proximity network, reproduces every published metric. [Interactive version](https://tagwesley.github.io/#network) | R, igraph |
 | [Crime, density and the vote in Oregon](https://github.com/tagwesley/oregon-crime-vote) | Merged FBI, Census, election and income data; nested OLS with interactions and robust SEs | R, dplyr, ggplot2, sandwich |
+| [Fare Co-op Driver Hub](https://github.com/tagwesley/fare-coop-driver-hub) | Driver portal on a Google Sheets ops hub: email-code sign-in, row-level access, approval-gated email queue, calendar sync | Google Apps Script, JavaScript |
 
 ### Toolbox
 
