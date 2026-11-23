@@ -1,10 +1,10 @@
 <h1 align="center">Taggert W. Olson</h1>
 <p align="center"><b>Political science and data analysis</b> · Cal Poly San Luis Obispo<br>
-<a href="https://tagwesley.github.io">Portfolio</a> · <a href="mailto:tolson01@calpoly.edu">Email</a> · <a href="https://tagwesley.github.io/#network">Interactive network</a></p>
+<a href="https://tagwesley.github.io">Portfolio</a> · <a href="mailto:tolson01@calpoly.edu">Email</a> · <a href="https://www.linkedin.com/in/taggert-olson-287545332">LinkedIn</a> · <a href="https://tagwesley.github.io/#network">Interactive network</a></p>
 
 Political science student at **Cal Poly San Luis Obispo** (Global Politics). I turn messy public data into clean datasets, models and tools, and explain the results to people who don't live in notebooks.
 
-**Portfolio:** [tagwesley.github.io](https://tagwesley.github.io) · **Email:** tolson01@calpoly.edu
+**Portfolio:** [tagwesley.github.io](https://tagwesley.github.io) · **Email:** tolson01@calpoly.edu · **LinkedIn:** [taggert-olson](https://www.linkedin.com/in/taggert-olson-287545332)
 
 ### What I'm working on
 
